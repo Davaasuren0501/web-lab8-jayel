@@ -36,7 +36,7 @@ const deleteSession = async () => {
       <div className="flex border rounded-2xl  w-10/12 h-5/6 bg-[#EFF1F5]">
         <div className="w-1/5 bg-[#F9FBFC] rounded-2xl flex flex-col items-center justify-between">
           <div className="h-1/6 flex items-center justify-center text-2xl text-blue-600 font-sans">
-            Helle Dear
+            Hello Dear
           </div>
           <div className="h-3/6 w-1/2 flex flex-col items-end justify-start">
           <Link href="/">
