@@ -150,7 +150,7 @@ export default function Home({ token, userId, withdraws, req }) {
           >
             Add Income
           </button>
-          {/* <button
+          <button
             onClick={() => {
               setHidden(false);
             }}
@@ -158,7 +158,7 @@ export default function Home({ token, userId, withdraws, req }) {
             className="inline-block mx-2 w-2/12 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
           >
             Chart
-          </button> */}
+          </button>
         </div>
 
         <div className="h-[700px] overflow-scroll overflow-x-hidden scrollbar scrollbar-thumb-gray-200 scrollbar-track-white">
