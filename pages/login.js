@@ -139,7 +139,7 @@ ease-in-out"
         </div>
         <div className="block px-10 py-5 shadow-lg bg-[#FFFFFF] max-w-sm border border-gray-300 w-4/12 mt-4">
             <div className="flex items-center justify-center">
-              Don't have an account?  
+                Dont have an account?  
               <Link href="/register">
                 <p className="mx-1 text-[#359BFB] hover:underline"> Sign up </p>
               </Link>
